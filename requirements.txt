@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+google-generativeai
+python-dotenv
+tiktoken
+sentence-transformers
+chromadb
+EbookLib
+tqdm
